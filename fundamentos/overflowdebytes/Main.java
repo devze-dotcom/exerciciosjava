@@ -5,7 +5,7 @@ public class Main {
         int n = 260;
         byte _n = (byte) n;
 
-        // O programa imprimirá 4 pois o mesmo estaŕa percorrendo os valores do byte pela 2 vez.
+        // O programa imprimirá 4 pois o mesmo estaŕia percorrendo os valores do byte pela 2 vez.
         System.out.println(_n);
     }
 }
